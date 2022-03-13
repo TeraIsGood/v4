@@ -1,0 +1,13 @@
+{
+    "token": "OTUxOTA3MTkxNDQ5ODU4MDU4.YiuSqA.3jP2ZEER62BqdIbjWzFsNt4M-Ow",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://www.vinted.fr/vetements?search_text=nike&order=newest_first&brand_id[]=53&color_id[]=12&size_id[]=209": {
+            "channel": 952663206894133342
+        },
+        "https://www.vinted.fr/vetements?search_text=supreme%20veste&order=newest_first&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&price_to=150&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3&catalog[]=1811&catalog[]=267&catalog[]=1812&catalog[]=1815&catalog[]=1814&catalog[]=1825&catalog[]=1813&brand_id[]=14969&brand_id[]=764525&brand_id[]=805167&brand_id[]=3753069&brand_id[]=4864798&brand_id[]=4875318&brand_id[]=6021650": {
+            "channel": 952668076413952074
+        }
+    }
+}
